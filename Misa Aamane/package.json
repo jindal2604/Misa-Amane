@@ -1,0 +1,20 @@
+{
+  "name": "misa-amane",
+  "version": "0.0.0",
+  "description": "A discord moderator bot",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "jest": "^26.5.2",
+    "jest-esm-transformer": "^1.0.0"
+  }
+}
